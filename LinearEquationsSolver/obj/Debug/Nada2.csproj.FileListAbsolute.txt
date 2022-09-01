@@ -1,0 +1,28 @@
+F:\codeblocks projects\Nada2\Nada2\bin\Debug\Nada2.exe.config
+F:\codeblocks projects\Nada2\Nada2\bin\Debug\Nada2.exe
+F:\codeblocks projects\Nada2\Nada2\bin\Debug\Nada2.pdb
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.csproj.AssemblyReference.cache
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.Form1.resources
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.Properties.Resources.resources
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.csproj.GenerateResource.cache
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.csproj.CoreCompileInputs.cache
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.exe
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.pdb
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.Forms.Start.resources
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.Forms.Solve_Equations.resources
+F:\codeblocks projects\Nada2\Nada2\obj\Debug\Nada2.Forms.About_program.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\bin\Debug\Nada2.exe.config
+C:\Users\Islam\source\repos\Nada2\Nada2\bin\Debug\Nada2.exe
+C:\Users\Islam\source\repos\Nada2\Nada2\bin\Debug\Nada2.pdb
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Form1.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Forms.About_program.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Forms.Project_Team.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Forms.Solve_Equations.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Properties.Resources.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.csproj.GenerateResource.cache
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.exe
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.pdb
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.Forms.Solve_.resources
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.csproj.AssemblyReference.cache
+C:\Users\Islam\source\repos\Nada2\Nada2\obj\Debug\Nada2.csproj.SuggestedBindingRedirects.cache

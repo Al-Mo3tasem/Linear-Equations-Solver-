@@ -1,0 +1,15 @@
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.AssemblyReference.cache
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.SuggestedBindingRedirects.cache
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Form1.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Forms.About_program.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Forms.Project_Team.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Forms.Solve_.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Forms.Solve_Equations.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.GenerateResource.cache
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\Nada2.exe
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\Nada2.pdb
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\Nada2.exe.config
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\Nada2.exe
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\Nada2.pdb
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\Nada2.Properties.Resources.resources
+E:\حالا\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.CoreCompileInputs.cache
